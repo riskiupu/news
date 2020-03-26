@@ -1,0 +1,19 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "news",
+        "host": "SG-news-32476.servers.mongodirector.com",
+        "srv": false,
+        "port": 27017,
+        "username": "admin",
+        "password": "yCBHCdlRIB3cvERM"
+      },
+      "options": {
+        "authenticationDatabase": ""
+      }
+    }
+  }
+}
